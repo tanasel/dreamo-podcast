@@ -21,7 +21,7 @@
       <itunes:summary>Fall asleep by the fire in a warm stone cottage beside a still, moonlit lake. A cozy 1-hour bedtime sleep story for adults, read softly by a calm female voice over gentle music. For insomnia, anxiety and an overthinking mind. Watch on YouTube: https://youtu.be/-zcwY8X8G7c</itunes:summary>
       <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/01-the-cottage-by-the-mere.mp3" length="100732379" type="audio/mpeg"/>
       <guid isPermaLink="false">dreamo-lanternmere-1</guid>
-      <pubDate>Tue, 03 Jun 2026 19:00:00 GMT</pubDate>
+      <pubDate>Wed, 03 Jun 2026 19:00:00 GMT</pubDate>
       <itunes:duration>4197</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>1</itunes:episode>
@@ -32,7 +32,7 @@
       <itunes:summary>A calm male voice reads you slowly to sleep in a snug clockmaker&#x27;s workshop, warm with lamplight and the soft ticking of a hundred old clocks — like a slow, ticking lullaby. A cozy 1-hour bedtime story for adults. Watch on YouTube: https://youtu.be/icEqB_CO5_w</itunes:summary>
       <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/02-the-clockmakers-shop.mp3" length="100732377" type="audio/mpeg"/>
       <guid isPermaLink="false">dreamo-lanternmere-2</guid>
-      <pubDate>Wed, 04 Jun 2026 19:00:00 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 19:00:00 GMT</pubDate>
       <itunes:duration>4197</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>2</itunes:episode>
@@ -43,7 +43,7 @@
       <itunes:summary>Curl up by the glowing ovens of a warm village bakery in the last quiet hour before dawn. A cozy 1-hour sleep story for adults, soft female voice and gentle music to help you fall asleep fast. For insomnia and winding down. Watch on YouTube: https://youtu.be/iL7OIjJ_1WU</itunes:summary>
       <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/03-the-bakery-at-first-light.mp3" length="100732276" type="audio/mpeg"/>
       <guid isPermaLink="false">dreamo-lanternmere-3</guid>
-      <pubDate>Thu, 05 Jun 2026 19:00:00 GMT</pubDate>
+      <pubDate>Fri, 05 Jun 2026 19:00:00 GMT</pubDate>
       <itunes:duration>4197</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>3</itunes:episode>
@@ -54,10 +54,21 @@
       <itunes:summary>Wait on a quiet little platform in the mist, one warm lamp glowing, as the last slow train hums far away in the dark. A calm male voice and a soothing rhythm to carry you off — a cozy 1-hour bedtime story for adults. Watch on YouTube: https://youtu.be/IvzFdCi0IuE</itunes:summary>
       <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/04-the-little-train-halt.mp3" length="100732377" type="audio/mpeg"/>
       <guid isPermaLink="false">dreamo-lanternmere-4</guid>
-      <pubDate>Fri, 06 Jun 2026 19:00:00 GMT</pubDate>
+      <pubDate>Sat, 06 Jun 2026 19:00:00 GMT</pubDate>
       <itunes:duration>4197</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>The Apothecary&#x27;s Window</title>
+      <description>Step out of the rain into a tiny village apothecary, with lavender drying overhead and lamplight in the glass jars. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 70 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/VTh5slk73aM</description>
+      <itunes:summary>Step out of the rain into a tiny village apothecary, with lavender drying overhead and lamplight in the glass jars. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 70 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/VTh5slk73aM</itunes:summary>
+      <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/05-the-apothecary-window.mp3" length="100732377" type="audio/mpeg"/>
+      <guid isPermaLink="false">dreamo-lanternmere-5</guid>
+      <pubDate>Mon, 14 Sep 2026 19:50:00 GMT</pubDate>
+      <itunes:duration>4197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
     </item>
   </channel>
 </rss>
