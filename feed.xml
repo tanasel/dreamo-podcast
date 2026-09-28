@@ -70,5 +70,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>5</itunes:episode>
     </item>
+    <item>
+      <title>The Weaver&#x27;s Loft</title>
+      <description>Settle into a quiet weaver&#x27;s loft above the old mill in Lanternmere, with soft wool, a resting loom and lamplight beside the dark millpond. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 72 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/tKgXCQH6B8A</description>
+      <itunes:summary>Settle into a quiet weaver&#x27;s loft above the old mill in Lanternmere, with soft wool, a resting loom and lamplight beside the dark millpond. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 72 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/tKgXCQH6B8A</itunes:summary>
+      <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/06-the-weavers-loft.mp3" length="103192376" type="audio/mpeg"/>
+      <guid isPermaLink="false">dreamo-lanternmere-6</guid>
+      <pubDate>Mon, 28 Sep 2026 11:05:19 GMT</pubDate>
+      <itunes:duration>4299</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+    </item>
   </channel>
 </rss>
