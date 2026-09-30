@@ -81,5 +81,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>6</itunes:episode>
     </item>
+    <item>
+      <title>The Chandler&#x27;s Shop</title>
+      <description>Settle into the village chandler&#x27;s shop in Lanternmere, among cooling candle racks, coiled wick and jars of scent, with one warm taper still burning by the window. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 71 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/ZmNhuh4IpWw</description>
+      <itunes:summary>Settle into the village chandler&#x27;s shop in Lanternmere, among cooling candle racks, coiled wick and jars of scent, with one warm taper still burning by the window. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 71 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/ZmNhuh4IpWw</itunes:summary>
+      <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/07-the-chandlers-shop.mp3" length="102577978" type="audio/mpeg"/>
+      <guid isPermaLink="false">dreamo-lanternmere-7</guid>
+      <pubDate>Tue, 29 Sep 2026 18:00:20 GMT</pubDate>
+      <itunes:duration>4274</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
   </channel>
 </rss>
