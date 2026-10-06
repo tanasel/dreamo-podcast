@@ -92,5 +92,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>7</itunes:episode>
     </item>
+    <item>
+      <title>The Toymaker&#x27;s Workshop</title>
+      <description>Settle into the village toymaker&#x27;s workshop in Lanternmere, among a still lathe, shelves of unfinished wooden toys and one warm lamp left burning over the bench. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 70 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/1TbKlE3DwYY</description>
+      <itunes:summary>Settle into the village toymaker&#x27;s workshop in Lanternmere, among a still lathe, shelves of unfinished wooden toys and one warm lamp left burning over the bench. Elsie reads this gentle Lanternmere bedtime story, followed by a long music-only tail. Around 70 minutes of quiet company for winding down. Watch on YouTube: https://youtu.be/1TbKlE3DwYY</itunes:summary>
+      <enclosure url="https://github.com/tanasel/dreamo-podcast/releases/download/v1/08-the-toymakers-workshop.mp3" length="101457016" type="audio/mpeg"/>
+      <guid isPermaLink="false">dreamo-lanternmere-8</guid>
+      <pubDate>Mon, 05 Oct 2026 20:00:21 GMT</pubDate>
+      <itunes:duration>4227</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+    </item>
   </channel>
 </rss>
